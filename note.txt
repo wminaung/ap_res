@@ -5,5 +5,7 @@ status
 - 4 - ready
 - 5 - done
 
-7.2
+23.49
 time:: 01:07:51
+
+ <img src="{{ url('/images/' . $dish->image) }}" width="200" height="150" class="dish-image" alt="{{$dish->name}}">
